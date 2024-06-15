@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crystaljett
 - 👀 I’m interested in HTML, CSS, Javascript, and SQL.
-- 🌱 I’m currently learning the steps to become a Full-Stack Developer.
+- 🌱 I’m currently learning the steps to become a Full-Stack Engineer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: on here!
 - 😄 Pronouns: he/they
